@@ -10,7 +10,7 @@
 
 ###
 
-- 🌱 No momento estou aprendendo: **C#, HTML, CSS, JS e PHP**
+- 🌱 No momento estou aprendendo: **C#, HTML, CSS, JS, Dart e Flutter**
 
 - 📫 E-mail: **rafael-lunia@hotmail.com**
 
