@@ -10,7 +10,7 @@
 
 ###
 
-- 🌱 No momento estou aprendendo: **C#, Dart e Flutter**
+- 🌱 No momento estou aprendendo: **C# Web, Dart e Flutter**
 
 - 📫 E-mail: **rafael-lunia@hotmail.com**
 
