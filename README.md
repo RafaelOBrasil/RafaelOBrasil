@@ -25,6 +25,8 @@
 ###
 
 <img src="https://raw.githubusercontent.com/RafaelOBrasil/RafaelOBrasil/output/snake.svg" alt="Snake animation" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/SVG_logo.svg" alt="Example SVG" />
+
 
 ###
 
