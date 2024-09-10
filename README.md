@@ -24,6 +24,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/RafaelOBrasil/RafaelOBrasil/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="center">Linguagens e ferramentas:</h3>
 <p align="center">    
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
