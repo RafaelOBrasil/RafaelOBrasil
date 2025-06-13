@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Rafael Oliveira Brasil</h1>
-<h3 align="center">Estudante de Informática (Programação)</h3>
+<h3 align="center">Cursando Engenharia de Software</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-- 🌱 No momento estou aprendendo: **C# Web, Dart e Flutter**
+- 🌱 Estou estudando **Next.js, React e TypeScript.**
 
 - 📫 E-mail: **rafael-lunia@hotmail.com**
 
@@ -18,7 +18,7 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://fb.com/rafael.brasil.3781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafael brasil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafael-brasil-453880127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rafael brasil" height="30" width="40" /></a>
 <a href="https://instagram.com/_rafael_brasil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rafael_brasil_" height="30" width="40" /></a>
 </p>
 
