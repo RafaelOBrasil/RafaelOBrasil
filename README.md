@@ -18,7 +18,7 @@
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rafael-brasil-453880127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rafael brasil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafael-brasil-453880127/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/linkedin.svg" alt="rafael brasil" height="30" width="30" /></a>
 <a href="https://instagram.com/_rafael_brasil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rafael_brasil_" height="30" width="40" /></a>
 </p>
 
