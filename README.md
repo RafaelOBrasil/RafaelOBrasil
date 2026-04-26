@@ -1,69 +1,55 @@
-<h1 align="center">Olá 👋, Meu nome é Rafael Oliveira Brasil</h1>
-<h3 align="center">Cursando Engenharia de Software</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rafaelobrasil/count.svg?"  />
-</div>
-
-
-###
-
-- 🌱 Estou estudando **Next.js, React e TypeScript.**
-
-- 📫 E-mail: **rafael-lunia@hotmail.com**
-
-###
+<h1 align="center">Rafael Oliveira Brasil</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-brasil-453880127/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" />
+  Desenvolvedor focado em construção de produtos reais 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-brasil-453880127/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/_rafael_brasil_" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30" />
+  <a href="https://instagram.com/_rafael_brasil_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-###
+---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelOBrasil/RafaelOBrasil/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelOBrasil/RafaelOBrasil/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelOBrasil/RafaelOBrasil/output/github-contribution-grid-snake.svg">
-</picture>
+### 👨‍💻 Sobre mim
 
+- 🎓 Engenharia de Software (em andamento)
+- 💻 Foco em **Next.js, React e TypeScript**
+- 🚀 Construindo um SaaS de agendamento para barbearias
+- 📫 Contato: **rafael-lunia@hotmail.com**
 
-###
+---
 
-<h3 align="center">Linguagens e ferramentas:</h3>
-<p align="center">    
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+### 🧠 Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,js,html,css,git,figma,python,csharp" />
 </p>
 
-<div align="center">
+---
 
-  ###
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelobrasil&show_icons=true&locale=pt-br&theme=dracula" alt="rafaelobrasil" /></p>
+### 📊 Estatísticas
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelobrasil&&locale=pt-br&theme=dracula" alt="rafaelobrasil" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelobrasil&show_icons=true&theme=dracula&locale=pt-br" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelobrasil&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelobrasil&theme=dracula&locale=pt-br" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelobrasil&layout=compact&theme=dracula&locale=pt-br" />
+</p>
 
+---
 
+### 🐍 Contribuições
 
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RafaelOBrasil/RafaelOBrasil/output/github-contribution-grid-snake.svg" />
+</p>
